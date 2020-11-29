@@ -10,8 +10,8 @@ Configuration
   
 3) Download and install google chrome *
   sudo apt update
-  # wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-  # apt install ./google-chrome-stable_current_amd64.deb
+  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  apt install ./google-chrome-stable_current_amd64.deb
  
 4) Install dependencies
 pip install -r requirements.txt (Make sure you are in the same directory as this file)
