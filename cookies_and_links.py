@@ -16,7 +16,7 @@ driver=webdriver.Chrome(ChromeDriverManager().install(), options=options)
 
 driver.maximize_window()
 url="https://www.---.com.au/robots.txt"
-root_urls=[['September','https://www.---.com.au/mcq-21-sep/'],['August','https://www.---.com.au/mcq-10-august/']]
+root_urls=[['September','https://www.---.com.au/--/'],['August','https://www.---.com.au/---/']]
 unit_lecture_links=[]
 august_session=[]
 september_sesion=[]
